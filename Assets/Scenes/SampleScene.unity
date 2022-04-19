@@ -1000,6 +1000,36 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: e069f007b0353a34f890c37bae8e15c7, type: 3}
   m_PrefabInstance: {fileID: 1027162834}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &800692167
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 800692166}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c1d69134e13f26e448f308cdce951805, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _text: {fileID: 1098642102}
+--- !u!114 &800692168
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 800692166}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bc5f48af2cffd747a079fe8c632e2c8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  portName: COM3
+  baudRate: 9600
+  messageListener: {fileID: 800692166}
+  reconnectionDelay: 1000
+  maxUnreadMessages: 1
 --- !u!1 &850593699
 GameObject:
   m_ObjectHideFlags: 0
