@@ -3,7 +3,7 @@ Hardware Assignment UNI Final Project
 This is final assignment for the Hardware course and includes all Unity related files for the purpose of the live demo/interactive scene, arduino code/sketch, written report, and a link to the video. This is built off a branch of the assignment 4/5 repository as its own separate branch to prevent changing files meant for assignment 4/5.
 
 
-Video: https://youtu.be/izDFr_9LF8M
+Video: https://youtu.be/OC0foZxwaRw (Updated due to video length/verification problem)
 
 Slides: https://docs.google.com/presentation/d/1dr8jbQTjJKI8Z7TVXSZ5QyRBwVR2b5MM2Oq-2xbamjs/edit?usp=sharing
 
